@@ -20,7 +20,9 @@
             <strong>Evaluation:</strong> Evaluation is done with predicting probabilities for each dog breed.
         </p>
         <p style="color: #27AE60; font-size: 16px; font-style: italic; margin: 10px 0;">
-            <strong>Features:</strong> We are dealing with unstructured data. We'll use deep learning and transfer learning for predicting the probabilities of the multi-class classification. We have pictures of 120 dog breeds. We have 20,000 images for the training and test sets. 10,000 images with labels and the remaining 10,000 images without labels.
+            <strong>Features:</strong> We are dealing with unstructured data. We'll use deep learning and transfer learning to predict the probabilities of the multi-class classification. We have pictures of 120 dog breeds. We have 20,000 images for the training and test sets. 10,000 images with labels and the remaining 10,000 images without labels. ![image](https://github.com/Mustafa-Shoukat1/Dog-breed-Classification/assets/162743520/eb109350-495a-4adc-b27a-fff51aab079e)
+
+        
         </p>
         <h2 style="color: red; margin-top: 15px; font-size: 28px;">Contact Information</h2>
         <table style="width: 100%; margin-top: 15px; border-collapse: collapse;">
